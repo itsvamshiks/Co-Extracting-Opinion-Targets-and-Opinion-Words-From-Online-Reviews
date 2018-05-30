@@ -21,7 +21,7 @@ model for indicating the opinion relations among words. Thus, we expect to obtai
 more precise results on opinion relation identification.
 
 REQUIREMENTS:
--> jdk 8 or above
+-> jdk 8 or above \n
 -> An IDE like NetBeans
 
 To run the project, open the project and run the Main.java file in the src folder.
